@@ -1,6 +1,6 @@
 /* ===== Variables CSS ===== */
 :root {
-    --primary-color: #008800;
+    --primary-color: #0d6efd;
     --text-color: #212529;
     --light-bg: #f8f9fa;
     --border-color: #dee2e6;
@@ -33,14 +33,9 @@ a {
     text-decoration: none;
     transition: all 0.3s ease;
 }
-ul {
-    margin-left: 1.25rem;
-    list-style: disc;
-    color: #333;
-}
+
 /* ===== Navbar ===== */
 .navbar {
-    background-color: var(--primary-color) !important;
     box-shadow: 0 2px 4px rgb(0 0 0 / 10%);
 }
 
